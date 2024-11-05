@@ -1,1 +1,93 @@
-Hello
+
+(Name TBD) Winter Project 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participants: 
+
+Drelyn Decuire
+Austin Musoke
+
+Maybe: 
+
+JJ Oluwatimilehin 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Idea: 
+
+College Simulator Game
+
+- 4 Levels for each year of college (maybe more for super seniors)
+  - within these levels there will be multiple events that happen
+  - shaping the outcome
+
+Aspects of Focus of College Student: 
+
+- Academics 
+  
+  - 
+  - 
+  - 
+  - 
+
+- Social life 
+  
+  - 
+  - 
+  - 
+  - 
+
+- Career-Building 
+
+  - 
+  - 
+  - 
+  - 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Coding Languages Used (proposed by ChatGPT): 
+
+Python  
+
+- Great for protyping and understanding game locgic due to 
+- its simplicity and readability. Libraries like Pygame are 
+- ideal for 2D games, making it a good choice if you're new 
+- to game developement 
+
+HTML/CSS JavaScript
+
+- Since this is a Web-based game that we would like to run 
+- on a browser we can use HTML/CSS and JavaScript (combined with
+- an HTML5 Canvas or game Libraries like Phaser 
+- (RESEARCH REQUIRED), which allows for interactive and visually - engages in  games accessible to a wide audience )
+
+C# (Unity)
+
+- If we are aiming for a more polished product or plan to make
+- the game availible on multiple platforms, Unity with C# is a
+- popular choice. Unity's visual editor and community resources 
+- help us learn game mechanics and logic effectivly 
+
+Java 
+
+- Often used in android developement, and it's also highly 
+- structured, whuch can strengthn your understanding of 
+- OOP, essential for games that have complex interactions
+- and state management. 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Aspects of Focus for Gaming Mechanics : 
+
+- UI/UX 
+
+- Scoring System 
+
+- Save/Load Function
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
