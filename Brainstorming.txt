@@ -20,7 +20,11 @@ College Simulator Game
 
 - 4 Levels for each year of college (maybe more for super seniors)
   - within these levels there will be multiple events that happen
-  - shaping the outcome
+  - shaping the outcome (Example: Go out with friends or Study for you exam)
+  - Reach a certain amount of points to advance onto next year
+
+Goal/Ending:
+- 
 
 Aspects of Focus of College Student: 
 
