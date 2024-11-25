@@ -7,9 +7,6 @@ Participants:
 
 Drelyn Decuire
 Austin Musoke
-
-Maybe: 
-
 JJ Oluwatimilehin 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -29,6 +26,9 @@ Goal/Ending:
 Aspects of Focus of College Student: 
 
 - Academics 
+
+  Question - Should we have different areas of study? 
+  We can keep it basic like STEM, ARTS & HISTORY, BUISNESS, AND OTHER
   
   - Coding
   - Math
